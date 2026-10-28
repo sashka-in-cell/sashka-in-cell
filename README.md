@@ -1,16 +1,16 @@
-## Hi there 👋
+# Tere! Olen Sasha 👋
 
-<!--
-**sashka-in-cell/sashka-in-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Õpin Haapsalu Kutsehariduskeskuses IT-26
 
-Here are some ideas to get you started:
+## Minust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Mind huvitab õppida kõike uut
+- Vabal ajal ma magan
+
+## Mida ma olen õppinud
+
+| Õppeaine | Mida oskan |
+|---|---|
+| Digisisu loomine | eskiisi loomine ja ruumilisuse loomine |
+| Digiturvalisus ja probleemilahendus | veidi küberjulgeolekut |
+| Op.süsteemide ja küberturbe alused | töötama operatsioonisüsteemidega (Windows, Linux) |
